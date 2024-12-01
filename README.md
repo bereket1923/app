@@ -1,2 +1,3 @@
-"# pp" 
-"# pp" 
+Course Description: CS 201 –Procedural Programming
+
+In this course, I will gain hands-on experience in procedural programming and develop a strong foundation in Java as a programming language. I will enhance my problem-solving abilities by learning to analyze challenges and implement efficient solutions using structured programming techniques. Through practical exercises and projects, I will build skills as a Java developer and gain confidence in applying object-oriented principles to design and develop reliable software applications. By the end of the course, I will be equipped with the essential knowledge and tools to approach programming tasks systematically and creatively.
